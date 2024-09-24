@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\james11\\Documents\\NunitSoma\\somaapppp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E466B714-A423-4C06-9051-63190E973712}|somaapp.tests\\somaapp.tests.csproj|c:\\users\\james11\\documents\\nunitsoma\\somaapppp\\somaapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E466B714-A423-4C06-9051-63190E973712}|somaapp.tests\\somaapp.tests.csproj|solutionrelative:somaapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A79E89-8653-48E0-8EEB-BC77F291AF26}|somaapppp\\somaapppp.csproj|c:\\users\\james11\\documents\\nunitsoma\\somaapppp\\somaapppp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A79E89-8653-48E0-8EEB-BC77F291AF26}|somaapppp\\somaapppp.csproj|solutionrelative:somaapppp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\james11\\Documents\\NunitSoma\\somaapppp\\somaapp.tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "somaapp.tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\james11\\Documents\\NunitSoma\\somaapppp\\somaapp.tests\\UnitTest1.cs",
+              "RelativeToolTip": "somaapp.tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T03:10:47.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\james11\\Documents\\NunitSoma\\somaapppp\\somaapppp\\Program.cs",
+              "RelativeDocumentMoniker": "somaapppp\\Program.cs",
+              "ToolTip": "C:\\Users\\james11\\Documents\\NunitSoma\\somaapppp\\somaapppp\\Program.cs",
+              "RelativeToolTip": "somaapppp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T03:08:35.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
